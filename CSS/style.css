@@ -1,0 +1,11 @@
+
+body {
+
+    background-image: url("../IMG/2e2a49_72930eb06056462eaac3bb8d42278615_mv2.JPEG");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+body::before{
+    background-color: #6DB3F2;
+}
